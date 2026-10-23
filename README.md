@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MovieKeep — 데이터베이스 종합 실습 Base
 
 Firebase·SQL·Express는 같은 영화 찜 주제를 사용하는 **서로 독립된 세 실습**입니다.
@@ -120,3 +121,6 @@ Firebase–SQLite 동기화와 실습 간 연결은 선택 과제에서도 제�
 
 Firebase·Store20 / 메모20 / SQL조회·집계20 / SQL CRUD·제약20 / API10 / 제출·설명10.
 실습 간 연결은 평가하지 않습니다.
+=======
+# movie-keep-final
+>>>>>>> ac65b3e11b191c9dd65bb91625a22efef0c63756
